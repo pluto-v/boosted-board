@@ -15,8 +15,10 @@ body {
     width: 100%; /* Full width */
 }
 
+.bar h1 {
+    font-size: 1em;
+}
 
-<style>
 .parallax { 
     /* The image used */
     background-image: url("placeholder.png");
@@ -30,4 +32,3 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
-</style>
