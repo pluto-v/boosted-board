@@ -45,16 +45,16 @@ body {
 }
 
 .buynow {
-	
+
 	width: 320px;
 	height: 90px;
 	position: center;
-	
-	
+
+
 }
 .parallax1 {
     /* The image used */
-    background-image: url("some_city.jpg");
+    background-image: url("parallax_1.jpg");
 
     /* Set a specific height */
     min-height: 500px;
@@ -68,7 +68,7 @@ body {
 
 .parallax2 {
     /* The image used */
-    background-image: url("some_city.jpg");
+    background-image: url("parallax_2.jpg");
 
     /* Set a specific height */
     min-height: 500px;
@@ -82,7 +82,7 @@ body {
 
 .parallax3 {
     /* The image used */
-    background-image: url("some_city.jpg");
+    background-image: url("parallax_3.jpg");
 
     /* Set a specific height */
     min-height: 500px;
@@ -96,7 +96,7 @@ body {
 
 .parallax4 {
     /* The image used */
-    background-image: url("some_city.jpg");
+    background-image: url("parallax_4.jpg");
 
     /* Set a specific height */
     min-height: 500px;
