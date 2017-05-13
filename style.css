@@ -18,7 +18,16 @@ body {
 .bar h1 {
     font-size: 1.2em;
 }
+.bar .left {
+    float: left;
+}
 
+.bar .center {
+    float: center;
+}
+.bar .right {
+    float: right;
+}
 .parallax {
     /* The image used */
     background-image: url("some_city.jpg");
