@@ -5,6 +5,10 @@ body {
     font-family: 'Oswald', sans-serif;
     margin: 0px;
     padding: 0px;
+	cursor: url("cursor.png"), auto;
+}
+a {
+    color: #FF3F00
 }
 
 .bar {
