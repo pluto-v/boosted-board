@@ -55,6 +55,9 @@ a {
 	position: center;
 }
 .parallax1 {
+    margin: 0;
+    padding: 0;
+    display: block;
     /* The image used */
     background-image: url("parallax_1.jpg");
 
@@ -111,21 +114,17 @@ a {
 }
 
 .parabox1 {
-	height:750px;
 	background-color:#333333;
-	align:center
 }
 
 .parabox2 {
-	height:300px;
+	/*height:300px;*/
 	background-color:#333333;
-	align:center
 }
 
 .parabox3 {
 	height:300px;
 	background-color:#333333;
-	align:center
 }
 
 .parabox1txt {
