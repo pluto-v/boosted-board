@@ -2,7 +2,9 @@ body {
   background-color: #202020;
   text-align: center;
   color: red;
-	font-family: 'Oswald', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  margin: 0px;
+  padding: 0px;
 }
 
 .bar {
