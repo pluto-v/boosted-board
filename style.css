@@ -144,3 +144,9 @@ a {
 .footer {
     background-color: white;
 }
+.social-bottom {
+    font-size: 2em;
+    padding-top: 0.35em;
+    padding-right: 0.3em;
+    color: #FF3F00;
+}
