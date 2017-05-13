@@ -19,10 +19,11 @@ body {
 .bar h1 {
     font-size: 1.2em;
 }
-.bar i {
+.bar a i {
     font-size: 2em;
     padding-top: 0.35em;
     padding-right: 0.3em;
+    color: red;
 }
 .bar .left {
     float: left;
