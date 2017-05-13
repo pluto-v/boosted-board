@@ -1,10 +1,10 @@
 body {
-  background-color: #333333;
-  text-align: center;
-  color: #FF3F00;
-  font-family: 'Oswald', sans-serif;
-  margin: 0px;
-  padding: 0px;
+    background-color: #333333;
+    text-align: center;
+    color: #FF3F00;
+    font-family: 'Oswald', sans-serif;
+    margin: 0px;
+    padding: 0px;
 }
 
 .bar {
@@ -27,30 +27,29 @@ body {
 }
 .bar .left {
     float: left;
-     display: inline-block;
+    display: inline-block;
 }
 .bar .center {
     float: center;
-     display: inline-block;
+    display: inline-block;
 }
 .bar .right {
     float: right;
-     display: inline-block;
+    display: inline-block;
 }
 .logo {
-  width:50px;
-  height:50px;
-  padding-left: 30px;
-  padding-top: 2px;
+    width:50px;
+    height:50px;
+    padding-left: 30px;
+    padding-top: 2px;
 }
-
+#id {
+    padding: 0px;
+}
 .buynow {
-
 	width: 320px;
 	height: 90px;
 	position: center;
-
-
 }
 .parallax1 {
     /* The image used */
@@ -132,5 +131,5 @@ body {
 }
 
 .footer {
-  background-color: white;
+    background-color: white;
 }
