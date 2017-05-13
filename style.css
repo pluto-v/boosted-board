@@ -41,6 +41,14 @@ a {
     float: right;
     display: inline-block;
 }
+.bottom-bar {
+    background-color: #80111111;
+    border-bottom: #000000;
+    position: fixed; /* Set the navbar to fixed position */
+    bottom: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+
+}
 .logo {
     width:50px;
     height:50px;
@@ -51,10 +59,10 @@ a {
     padding: 0px;
 }
 .buynow {
-	width: 320px;
-	height: 90px;
+	height: 50px;
 	position: center;
 }
+
 .parallax1 {
     margin: 0;
     padding: 0;
