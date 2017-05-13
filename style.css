@@ -6,6 +6,9 @@ body {
     margin: 0px;
     padding: 0px;
 }
+a {
+    color: #FF3F00
+}
 
 .bar {
     background-color: #FFFFFF;
