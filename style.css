@@ -16,7 +16,6 @@ body {
 }
 
 
-<style>
 .parallax { 
     /* The image used */
     background-image: url("placeholder.png");
@@ -30,4 +29,3 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
-</style>
