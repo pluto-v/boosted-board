@@ -19,16 +19,26 @@ body {
     font-size: 1.2em;
 }
 
-.parallax { 
+.parallax {
     /* The image used */
-    background-image: url("placeholder.png");
+    background-image: url("some_city.jpg");
 
     /* Set a specific height */
-    height: 800px; 
+    min-height: 500px; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.parabox1 {
+	height:1000px;
+	background-color:#333333;
+}
+
+.parabox1txt {
+	font-size:36px;
+	font-color:white
 }
