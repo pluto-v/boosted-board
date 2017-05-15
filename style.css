@@ -1,5 +1,5 @@
 body {
-    background-color: #333333;
+    background-color: #555555;
     text-align: center;
     color:#0b34a1;
     font-family: 'Oswald', sans-serif;
@@ -122,17 +122,17 @@ a {
 }
 
 .parabox1 {
-	background-color:#333333;
+	background-color:#555555;
 }
 
 .parabox2 {
 	/*height:300px;*/
-	background-color:#333333;
+	background-color:#555555;
 }
 
 .parabox3 {
 	height:300px;
-	background-color:#333333;
+	background-color:#555555;
 }
 
 .parabox1txt {
