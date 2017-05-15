@@ -1,13 +1,13 @@
 body {
     background-color: #333333;
     text-align: center;
-    color: #FF3F00;
+    color:#0b34a1;
     font-family: 'Oswald', sans-serif;
     margin: 0px;
     padding: 0px;
 }
 a {
-    color: #FF3F00
+    color: #0b34a1;
 }
 
 .bar {
@@ -26,7 +26,7 @@ a {
     font-size: 2em;
     padding-top: 0.35em;
     padding-right: 0.3em;
-    color: #FF3F00;
+    color: #0b34a1;
 }
 .bar .left {
     float: left;
@@ -67,7 +67,7 @@ a {
     padding: 0;
     display: block;
     /* The image used */
-    background-image: url("parallax_1.jpg");
+    background-image: url("drone2.jpg");
 
     /* Set a specific height */
     min-height: 500px;
@@ -81,7 +81,7 @@ a {
 
 .parallax2 {
     /* The image used */
-    background-image: url("parallax_2.jpg");
+    background-image: url("drone3.jpg");
 
     /* Set a specific height */
     min-height: 500px;
@@ -95,7 +95,7 @@ a {
 
 .parallax3 {
     /* The image used */
-    background-image: url("parallax_3.jpg");
+    background-image: url("drone.jpg");
 
     /* Set a specific height */
     min-height: 500px;
@@ -109,7 +109,7 @@ a {
 
 .parallax4 {
     /* The image used */
-    background-image: url("parallax_4.jpg");
+    background-image: url("drone.jpg");
 
     /* Set a specific height */
     min-height: 500px;
@@ -147,5 +147,5 @@ a {
     font-size: 2em;
     padding-top: 0.35em;
     padding-right: 0.3em;
-    color: #FF3F00;
+    color: #0b34a1;
 }
