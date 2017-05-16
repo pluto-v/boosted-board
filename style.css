@@ -151,6 +151,6 @@ a {
 
 @media only screen and (max-width: 500px) {
     .bar h1 {
-        font-size: 5em;
+        font-size: 3em;
     }
 }
