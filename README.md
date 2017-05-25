@@ -1,11 +1,38 @@
 # DRONE
 
-The product website for the DRONE game.
+The product website for the DRONE game. A spectacular one player one button shooter game that will appeal to all people around the world. Developed as a project for a school business assignment. Inspired by the hit games Flappy Bird and Call of Duty, this game will sure resonate with everyone.
 
-To see the drone game, visit our other repository
+"DRONE is the best new one player action sidescroller shooter game I've played in a while."
 
-https://tinyurl.com/drone-game
+Kumail Raza, reformed professional gamer
+
+### Reach out to us!
+
+Our Website:
+https://tinyurl.com/drone-game or https://pluto-v.github.io/drone-website
+
+Facebook:
+https://facebook.com/NEW.DRONE.GAME
+
+Instagram:
+https://instagram.com/NEW.DRONE.GAME
+
+Twitter:
+https://twitter.com/NEW_DRONE_GAME
+
+
+## Downloading
+
+https://github.com/pluto-v/drone/releases/tag/v0.1.0
+
+Follow the instructions on the page to install.
+
+Game instructions also available there.
 
 ## Contributing
 
-Pull requests
+The game is currently open source, please visit https://github.com/pluto-v/drone for the code.
+
+Thanks for helping out!
+
+Please submit a pull request, and we'll get back to you as soon as possible.
