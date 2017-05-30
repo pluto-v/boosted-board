@@ -1,13 +1,13 @@
 body {
-    background-color: #555555;
+    background-color: #222222;
     text-align: center;
-    color:#0b34a1;
+    color:#6496FA;
     font-family: 'Oswald', sans-serif;
     margin: 0px;
     padding: 0px;
 }
 a {
-    color: #0b34a1;
+    color: #6496FA;
 }
 
 .bar {
@@ -26,7 +26,7 @@ a {
     font-size: 2em;
     padding-top: 0.35em;
     padding-right: 0.3em;
-    color: #0b34a1;
+    color: #6496FA;
 }
 .bar .left {
     float: left;
@@ -66,7 +66,7 @@ a {
     padding: 0;
     display: block;
     /* The image used */
-    background-image: url("drone2.jpg");
+    background-image: url("splash.png");
 
     /* Set a specific height */
     min-height: 500px;
@@ -94,7 +94,7 @@ a {
 
 .parallax3 {
     /* The image used */
-    background-image: url("drone.jpg");
+    background-image: url("droneboss.png");
 
     /* Set a specific height */
     min-height: 500px;
@@ -121,7 +121,7 @@ a {
 }
 
 .parabox1 {
-	background-color:#555555;
+	background-color:#222222;
 }
 
 .parabox2 {
@@ -131,7 +131,7 @@ a {
 
 .parabox3 {
 	height:300px;
-	background-color:#555555;
+	background-color:#222222;
 }
 
 .parabox1txt {
@@ -146,7 +146,7 @@ a {
     font-size: 2em;
     padding-top: 0.35em;
     padding-right: 0.3em;
-    color: #0b34a1;
+    color: #6496FA;
 }
 
 @media only screen and (max-width: 500px) {
